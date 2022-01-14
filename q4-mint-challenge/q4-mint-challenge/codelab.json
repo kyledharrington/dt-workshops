@@ -1,0 +1,17 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-01-14T10:47:54-08:00",
+  "id": "q4-mint-challenge",
+  "duration": 2,
+  "title": "Q4 SE Meetup Mint Hackathon",
+  "summary": "SE Meetup Mint Hackathon",
+  "source": "README.md",
+  "theme": "",
+  "status": null,
+  "category": null,
+  "tags": [],
+  "url": "q4-mint-challenge"
+}
